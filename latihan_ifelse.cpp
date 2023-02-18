@@ -32,7 +32,7 @@ int main() {
         println("Jawaban anda benar, kuda makan rumput.");
     }
     else if (jawaban == "ayam" || jawaban == "Ayam" || jawaban == "AYAM"){
-        println("Jawaban anda salah, kuda tidak makan rumput.");
+        println("Jawaban anda salah, kuda tidak makan ayam.");
     }
     else {
         print("Mohon masukkan jawaban yang sesuai pertanyaan!");

@@ -3,7 +3,7 @@
 
 using namespace std;
 
-namespace vin {
+namespace printstr {
     void print (string str_In) {
      cout << str_In;}
     void println (string str_In) {
@@ -16,10 +16,21 @@ namespace vin {
      getline(cin, output);}
 }
 
-using namespace vin;
+using namespace printstr;
+
 
 int main() {
     system("CLS");
+
+ int floors = 15,
+     rooms = 300,
+     suites = 30;
+
+    cout << "The grande Hotel has " << floors << " floors \n";
+    cout << "with "<< rooms << " rooms and " << suites;
+    
+
+
     
 
 

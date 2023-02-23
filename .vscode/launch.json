@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Vin/Documents/DSA-ccp",
-      "program": "c:/Users/Vin/Documents/DSA-ccp/build/Debug/outDebug",
+      "cwd": "c:/Users/Vin/Documents/DSA-ccp/output",
+      "program": "c:/Users/Vin/Documents/DSA-ccp/output/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
